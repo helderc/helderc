@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helderc&layout=compact)
 
-![](https://komarev.com/ghpvc/?username=helderc&style=for-the-badge)
-  
- </p>
+<div style="display: flex; flex-direction: row;">
+  <img class="img" src="https://komarev.com/ghpvc/?username=helderc&style=for-the-badge"/>
+</div>
