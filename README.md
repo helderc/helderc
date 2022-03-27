@@ -17,13 +17,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<p align="center">
+ 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=helderc&theme=solarized-dark&show_icons=true)
 
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helderc&layout=compact)
 
-  <img class="img" src="https://komarev.com/ghpvc/?username=helderc&style=for-the-badge"/>
-</p>
+![Counter](https://komarev.com/ghpvc/?username=helderc&style=for-the-badge)
+  
