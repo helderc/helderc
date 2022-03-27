@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helderc&layout=compact)
 
-<div style="display: flex; flex-direction: row;">
+<div style="display: flex; flex-direction: row; align:center;">
   <img class="img" src="https://komarev.com/ghpvc/?username=helderc&style=for-the-badge"/>
 </div>
