@@ -17,9 +17,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- 
-![Github stats](https://github-readme-stats.vercel.app/api?username=helderc&theme=solarized-dark&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helderc&layout=compact)
+### GitHub Stats
+<table>
+    <tr>
+        <td valign="top" width="50%">
+            <img src="https://github-readme-stats.vercel.app/api?username=helderc&show_icons=true&count_private=true&hide_border=true&theme=dark" align="left" style="width: 100%" />
+        </td>
+        <td valign="top" width="50%">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helderc&hide_border=true&layout=compact&theme=dark" align="left" style="width: 100%" />
+        </td>
+    </tr>
+</table>  
 
+<br/>  
+
+<div align="center">
   
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=helderc)](https://git.io/streak-stats)
+  
+</div>
