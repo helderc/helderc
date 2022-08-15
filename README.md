@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Helder, a Postoctoral Fellow at the University of Calgary (UofC), Canada. I have PhD and Masters in Electrical Engineering where I worked with medical images (digital mammography and Digital Breast Tomosynthesis). At the UofC I'm working with Bayesian networks, Time-series processing and Granger causality.
+I'm Helder, a Postdoctoral Fellow at the University of Calgary (UofC), Canada. I have PhD and Masters in Electrical Engineering where I worked with medical images (digital mammography and Digital Breast Tomosynthesis). At the UofC I'm working with Bayesian networks.
 
 - 🌱 I’m currently learning: R language and Bayesian data analysis.
 
