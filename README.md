@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 ### GitHub Stats
 
 <div class="row" align="center">
-  <div class="column"><img src="https://github-readme-stats.vercel.app/api?username=helderc&show_icons=true&count_private=true&hide_border=true&theme=dark" align="center" height="150px"/></div>
-  <div class="column"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helderc&hide_border=true&layout=compact&theme=dark" align="center"  height="150px" /></div>
+  <div class="column"><img src="https://github-readme-stats.vercel.app/api?username=helderc&show_icons=true&count_private=true&hide_border=true&theme=dark" align="center" height="150px"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helderc&hide_border=true&layout=compact&theme=dark" align="center" height="150px" /></div>
 </div>
 
 <br/>  
