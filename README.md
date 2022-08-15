@@ -19,20 +19,10 @@ Here are some ideas to get you started:
 -->
 
 ### GitHub Stats
-<table>
-<tr>
-<td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=helderc&show_icons=true&count_private=true&hide_border=true&theme=dark" align="left" />
-</td>
-<td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helderc&hide_border=true&layout=compact&theme=dark" align="left" />
-</td>
-</tr>
-</table>  
 
-<div class="row">
-  <div class="column"><img src="https://github-readme-stats.vercel.app/api?username=helderc&show_icons=true&count_private=true&hide_border=true&theme=dark" align="left" /></div>
-  <div class="column"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helderc&hide_border=true&layout=compact&theme=dark" align="left" /></div>
+<div class="row" align="center">
+  <div class="column"><img src="https://github-readme-stats.vercel.app/api?username=helderc&show_icons=true&count_private=true&hide_border=true&theme=dark" align="left" width="50px"/></div>
+  <div class="column"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helderc&hide_border=true&layout=compact&theme=dark" align="left"  width="50px" /></div>
 </div>
 
 <br/>  
