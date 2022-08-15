@@ -30,6 +30,11 @@ Here are some ideas to get you started:
 </tr>
 </table>  
 
+<div class="row">
+  <div class="column"><img src="https://github-readme-stats.vercel.app/api?username=helderc&show_icons=true&count_private=true&hide_border=true&theme=dark" align="left" /></div>
+  <div class="column"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helderc&hide_border=true&layout=compact&theme=dark" align="left" /></div>
+</div>
+
 <br/>  
 
 <div align="center">
