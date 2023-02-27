@@ -1,8 +1,7 @@
 ### Hi there 👋
-I'm Helder, a Postdoctoral Fellow at the University of Calgary (UofC), Canada. I have PhD and Masters in Electrical Engineering where I worked with medical images (digital mammography and Digital Breast Tomosynthesis). At the UofC I'm working with Bayesian networks.
+I'm Helder, an instructor at the Southern Alberta Institute of Technology (SAIT), in Calgary, Canada. I have a bachelor's degree in Computer Science, Ph.D. and Masters in Electrical Engineering where I worked with medical images (digital mammography and Digital Breast Tomosynthesis). 
 
-- 🌱 I’m currently learning: R language and Bayesian data analysis.
-
+As a researcher, I'm interested in medical images mainly for the detection/diagnosis of breast cancer. However, I'm also interested in all types of clinical data analysis towards helping people.
 
 <!--
 **helderc/helderc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
