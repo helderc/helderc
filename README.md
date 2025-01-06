@@ -30,6 +30,6 @@ Here are some ideas to get you started:
 
 <div class="row" align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=helderc)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=helderc)](https://git.io/streak-stats)
   
 </div>
