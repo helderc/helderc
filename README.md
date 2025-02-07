@@ -29,7 +29,5 @@ Here are some ideas to get you started:
 <br/>  
 
 <div class="row" align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=helderc)](https://git.io/streak-stats)
-  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=helderc)](https://git.io/streak-stats)  
 </div>
