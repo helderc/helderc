@@ -1,7 +1,7 @@
 ### Hi there 👋
-I'm Helder, an instructor at the Southern Alberta Institute of Technology (SAIT), in Calgary, Canada. I have a bachelor's degree in Computer Science, Ph.D. and Masters in Electrical Engineering where I worked with medical images (digital mammography and Digital Breast Tomosynthesis). 
 
-As a researcher, I'm interested in medical images mainly for the detection/diagnosis of breast cancer. However, I'm also interested in all types of clinical data analysis towards helping people.
+I'm Helder, an educator, researcher and developer with a background in computer science and medical imaging based in Calgary, Canada. 
+I have a bachelor's degree in Computer Science, a Ph.D. and a Master's in Biomedical Engineering, where I worked with digital mammography and Digital Breast Tomosynthesis, leveraging computational techniques to advance breast cancer detection. Recently, I’ve broadened my research to explore innovative approaches to student engagement and open educational resources.
 
 <!--
 **helderc/helderc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
